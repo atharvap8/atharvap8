@@ -4,4 +4,4 @@
  - #JEEAspirant2024
  - #BTian
  - How to contact me, telegram - @atharvap8
- - Head over to atharvap8.github.io for more info about me
+ - Head over to (https://atharvap8.github.io/) for more info about me
