@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvap8&label=Profile%20views&color=0e75b6&style=flat" alt="atharvap8" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvap8" alt="atharvap8" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/atharva87115487" target="blank"><img src="https://img.shields.io/twitter/follow/atharva87115487?logo=twitter&style=for-the-badge" alt="atharva87115487" /></a> </p>
 
 - 🔭 I’m currently Studying in **Class 12th**
