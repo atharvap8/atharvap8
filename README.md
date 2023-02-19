@@ -31,7 +31,7 @@
 - RAM: 16GB DDR4 3200MHz 
 - SSD: 512GB M.2 NVMe Gen4
 - GPU: Intel Iris Xe Graphics
-- OS:  Linux-Mint & Windows 11 (Dual-Boot)
+- OS:  Arch-Linux & Windows 11 (Dual-Boot)
 
 ## 📱: **Redmi Note 10**
 - CPU: Qualcomm Snapdragon 678 SoC
