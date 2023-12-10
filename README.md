@@ -8,19 +8,19 @@
 ## Basic Things About Me:
 - 🔭 I’m currently Studying in **Class 12th**
 
-- 🌱 I’m currently learning **Python, Java Script, Html, CSS**
+- 🌱 I’m currently learning **Embedded Systems, C, C++**
 
-- 🤝 I’m looking for help with **Android OS Building**
+- 🤝 I’m looking for help with **ESP32 Development**
 
 - 🌐 My Website [atharvap8.github.io](atharvap8.github.io)
 
-- ▶ My Youtube Channel [https://www.youtube.com/@asp08](https://www.youtube.com/@asp08)
+- ▶ My Youtube Channel [@ATSystems](https://www.youtube.com/channel/UCHDgYG-P6Fct9-CwAqteHYA)
 
 - 💬 Ask me about **Android Stuff, ESP32, Electronics, etc.**
 
 - 📫 How to reach me **atharvaphadke8@gmail.com**
 
-- ⚡ Fun fact **I am very funny.**
+- ⚡ Fun fact **Electronics is Fun 😁**
 
 - Preparing for JEE2024 
 
@@ -36,15 +36,15 @@
 ## 📱: **Redmi Note 10**
 - CPU: Qualcomm Snapdragon 678 SoC
 - RAM: 4GB & 64GB Storage
-- OS:  [SparkOS](https://github.com/Spark-Rom) Android 13
+- OS:  [SuperiorOS](https://github.com/SuperiorOS) Android 13
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/atharvap8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="atharvap8" height="30" width="40" /></a>
 <a href="https://twitter.com/atharva87115487" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atharva87115487" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/atharva-phadke-68244b245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva-phadke-68244b245" height="30" width="40" /></a>
-<a href="https://instagram.com/atharvap08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atharvap08" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@asp08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@asp08" height="30" width="40" /></a>
+<a href="https://instagram.com/atharva.p8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atharvap08" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCHDgYG-P6Fct9-CwAqteHYA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@asp08" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
