@@ -1,11 +1,11 @@
-<h1 align="center">Hello! 👋, I'm Atharva</h1>
+<h2 align="center">Hello! 👋, I'm Atharva</h2>
 <h3 align="center">A passionate Learner from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=atharvap8&label=Profile%20views&color=0e75b6&style=flat" alt="atharvap8" /> </p>
 
 <p align="center"> <a href="https://instagram.com/atharva.p8" target="blank"><img src="https://img.shields.io/badge/Instagram-blue?style=flat&logo=Instagram" alt="atharva.p8" /></a> </p>
 
-<h1 align="center">Basic Things About Me:
+<h2 align="center">Basic Things About Me:</h2>
 - 🔭 I’m currently Studying **Bachelor of Vocation** in **Internet of Things (IoT)**, From PCCoE
 
 - 🌱 I’m currently learning **IoT, Embedded Systems, C, C++**
@@ -24,7 +24,7 @@
 
 ---
 
-<h1 align="center">Devices I Own:</h1>
+<h2 align="center">Devices I Own:</h2>
 
  💻: **Mi Notebook Pro**
 - CPU: Intel Core i5-11300H (11th Gen)
