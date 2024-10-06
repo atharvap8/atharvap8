@@ -1,9 +1,9 @@
 <h1 align="center">Hello! 👋, I'm Atharva</h1>
 <h3 align="center">A passionate Learner from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvap8&label=Profile%20views&color=0e75b6&style=flat" alt="atharvap8" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=atharvap8&label=Profile%20views&color=0e75b6&style=flat" alt="atharvap8" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@atharva87115487" target="blank"><img src="https://img.shields.io/twitter/follow/atharva87115487?logo=twitter&style=for-the-badge" alt="atharva87115487" /></a> </p>
+<p align="center"> <a href="https://instagram.com/atharva.p8" target="blank"><img src="https://img.shields" alt="atharva.p8" /></a> </p>
 
 ## Basic Things About Me:
 - 🔭 I’m currently Studying **Bachelor of Vocation** in **Internet of Things (IoT)**, From PCCoE
@@ -14,7 +14,7 @@
 
 - 🌐 My Website [atharvap8.github.io](atharvap8.github.io)
 
-- ▶ My Youtube Channel [@ATSystems](https://www.youtube.com/channel/UCHDgYG-P6Fct9-CwAqteHYA)
+- ▶ My Youtube Channel [Atharva Phadke](https://www.youtube.com/channel/UCHDgYG-P6Fct9-CwAqteHYA)
 
 - 💬 Ask me about **Android Stuff, ESP32, Electronics, etc.**
 
