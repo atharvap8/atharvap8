@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://twitter.com/@atharva87115487" target="blank"><img src="https://img.shields.io/twitter/follow/atharva87115487?logo=twitter&style=for-the-badge" alt="atharva87115487" /></a> </p>
 
 ## Basic Things About Me:
-- 🔭 I’m currently Studying **Bachelor of Vocation** in **Internet of Things(IoT)**, From PCCoE
+- 🔭 I’m currently Studying **Bachelor of Vocation** in **Internet of Things (IoT)**, From PCCoE
 
-- 🌱 I’m currently learning **Embedded Systems, C, C++**
+- 🌱 I’m currently learning **IoT, Embedded Systems, C, C++**
 
 - 🤝 I’m looking for help with **ESP32 Development**
 
@@ -20,9 +20,7 @@
 
 - 📫 How to reach me **atharvaphadke8@gmail.com**
 
-- ⚡ Fun fact **Electronics is Fun 😁**
-
-- Preparing for JEE2024 
+- ⚡ Explore, Experiment, Experience.
 
 **Devices I Own:**
 
