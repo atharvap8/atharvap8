@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://instagram.com/atharva.p8" target="blank"><img src="https://img.shields.io/badge/Instagram-blue?style=flat&logo=Instagram" alt="atharva.p8" /></a> </p>
 
-<h1 align="center">Basic Things About Me:</h1>
+<h1 align="center">Basic Things About Me:
 - 🔭 I’m currently Studying **Bachelor of Vocation** in **Internet of Things (IoT)**, From PCCoE
 
 - 🌱 I’m currently learning **IoT, Embedded Systems, C, C++**
