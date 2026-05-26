@@ -31,18 +31,20 @@ I like to analyze complex machines/systems in real life, dismantle them to study
 ---
 
 ## Experience
+*   **Electronics Engineer** at **Eyecandy Robotics Pvt. Ltd.** *(May 2026 - Present)*
+    *   Designing, prototyping, and validating custom electronics for AI-powered robotic peripherals.
 
 *   **Embedded Systems Intern** at **Anedya Systems Pvt. Ltd.** *(Dec 2025 - May 2026)*
-    *   *Integrating IoT devices, developing cloud telemetry protocols, and device-to-cloud interfaces.*
+    *   Integrating IoT devices, developing cloud telemetry protocols, and device-to-cloud interfaces.
              
 *   **Electronics Engineer** at **Team Automatons, PCCoE** *(Dec 2025 - Present)*
-    *   *Designing, prototyping, and validating robotics R&D electrical systems for ABU-ROBOCON 2026.*
+    *   Designing, prototyping, and validating robotics R&D electrical systems for ABU-ROBOCON 2026.
        
 *   **Embedded Intern** at **Velous Tech Solutions Pvt. Ltd.** *(June 2025 - Nov 2025)*
-    *   *STM32 firmware architecture development, FreeRTOS integration, and Industrial IoT prototyping.*
+    *   STM32 firmware architecture development, FreeRTOS integration, and Industrial IoT prototyping.
        
 *   **Embedded System Designer** on **Upwork (Freelance)** *(Mar 2024 - May 2024)*
-    *   *Custom smart LED controller hardware design and ESP32 firmware development.*
+    *   Custom smart LED controller hardware design and ESP32 firmware development.
 
 ---
 
