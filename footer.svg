@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 150" width="100%" height="100%">
+  <style>
+    :root {
+      --wave-1: #6366f1;
+      --wave-2: #06b6d4;
+      --wave-opacity-1: 0.12;
+      --wave-opacity-2: 0.18;
+      --wave-opacity-3: 0.08;
+      --spark-color: #22d3ee;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --wave-1: #818cf8;
+        --wave-2: #22d3ee;
+        --wave-opacity-1: 0.18;
+        --wave-opacity-2: 0.25;
+        --wave-opacity-3: 0.12;
+        --spark-color: #22d3ee;
+      }
+    }
+
+    /* Wave animation scrolling horizontally */
+    .fluid-wave {
+      animation: waveFlow 14s linear infinite;
+    }
+    .fluid-wave-mid {
+      animation: waveFlow 10s linear infinite;
+    }
+    .fluid-wave-fast {
+      animation: waveFlow 6s linear infinite;
+    }
+
+    @keyframes waveFlow {
+      from {
+        transform: translate3d(0, 0, 0);
+      }
+      to {
+        transform: translate3d(-800px, 0, 0);
+      }
+    }
+
+    /* Sparkling ambient particle animations */
+    .spark {
+      fill: var(--spark-color);
+      animation: floatSpark 4s ease-in-out infinite alternate;
+    }
+    .spark-1 { animation-delay: 0s; }
+    .spark-2 { animation-delay: 1.5s; }
+    .spark-3 { animation-delay: 3s; }
+
+    @keyframes floatSpark {
+      0% { opacity: 0.2; transform: translate(0, 0) scale(0.8); }
+      50% { opacity: 0.8; }
+      100% { opacity: 0.3; transform: translate(15px, -15px) scale(1.2); }
+    }
+  </style>
+
+  <defs>
+    <!-- Wave Gradients -->
+    <linearGradient id="waveGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--wave-1)" stop-opacity="var(--wave-opacity-1)" />
+      <stop offset="100%" stop-color="var(--wave-2)" stop-opacity="0" />
+    </linearGradient>
+
+    <linearGradient id="waveGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--wave-2)" stop-opacity="var(--wave-opacity-2)" />
+      <stop offset="100%" stop-color="var(--wave-1)" stop-opacity="0" />
+    </linearGradient>
+
+    <linearGradient id="waveGrad3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="var(--wave-1)" stop-opacity="0" />
+      <stop offset="50%" stop-color="var(--wave-2)" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="var(--wave-1)" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Transparent background -->
+  <rect width="800" height="150" fill="none" />
+
+  <!-- Wave Layer 1 (Indigo Organic Flow) -->
+  <g class="fluid-wave">
+    <path d="M 0 100 Q 200 65 400 100 T 800 100 T 1200 100 T 1600 100 L 1600 150 L 0 150 Z" fill="url(#waveGrad1)" />
+  </g>
+
+  <!-- Wave Layer 2 (Cyan Organic Flow, offset phase) -->
+  <g class="fluid-wave-mid">
+    <path d="M 0 115 Q 160 85 320 115 T 640 115 T 960 115 T 1280 115 T 1600 115 L 1600 150 L 0 150 Z" fill="url(#waveGrad2)" />
+  </g>
+
+  <!-- Wave Layer 3 (Glowing Vector Ribbon Line) -->
+  <g class="fluid-wave-fast">
+    <!-- Glowing neon line representing elegant data flow -->
+    <path d="M 0 128 Q 120 110 240 128 T 480 128 T 720 128 T 960 128 T 1200 128 T 1440 128 T 1600 128" fill="none" stroke="url(#waveGrad3)" stroke-width="2.5" />
+  </g>
+
+  <!-- Floating Aesthetic Lights (Soft Sparks) -->
+  <g transform="translate(0, 0)">
+    <circle cx="150" cy="80" r="2.5" class="spark spark-1" />
+    <circle cx="480" cy="90" r="1.5" class="spark spark-2" />
+    <circle cx="620" cy="70" r="2" class="spark spark-3" />
+    <circle cx="280" cy="110" r="1.5" class="spark spark-2" />
+  </g>
+</svg>

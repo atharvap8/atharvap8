@@ -30,10 +30,6 @@ I like to analyze complex machines/systems in real life, dismantle them to study
 
 ---
 
-
-
----
-
 ## Experience
 
 *   **Embedded Systems Intern** at **Anedya Systems Pvt. Ltd.** *(Dec 2025 - May 2026)*
@@ -98,3 +94,6 @@ I write detailed educational logs on core electronics principles to demystify co
 
 <br/>
 
+<div align="center">
+  <img src="footer.svg" width="100%" alt="Atharva Phadke Footer Wave" />
+</div>
